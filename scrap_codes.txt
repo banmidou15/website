@@ -1,0 +1,17 @@
+{
+	background: url(//subtlepatterns.com/patterns/scribble_light.png);
+  font-family: Calluna, Arial, sans-serif;
+  min-height: 1000px;
+}
+
+<ul>
+        <figure class="main_img">
+          <img src="sherlin.JPG">
+        </figure>
+
+    </ul>
+
+
+<div class="big_logo">
+      <img src="s5 studio.JPG" alt="s5 studio">
+    </div>
